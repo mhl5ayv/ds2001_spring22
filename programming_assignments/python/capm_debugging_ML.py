@@ -48,6 +48,7 @@ beta_sensitivity(x, y)
 x = np.random.rand(100, 1)
 y = np.random.rand(100, 1)
 
+#index area
 def beta_sensitivity(x, y):
     
     breakpoint()
