@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Mar 23 14:14:37 2022
+
+@author: youmisuk
+"""
+
+>>>>>>> 92aea2336335deadad33f58ab2eb81b4675344c2
 ## Capital Asset Pricing Model (CAPM)
 ### Strength Training with Functions, Numpy
 
@@ -118,3 +129,7 @@ Hint: **np.delete(x, i).reshape(-1,1)** will delete observation i from array x, 
 
 #### Call `beta_sensitivity()` and print the first five tuples of output.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 92aea2336335deadad33f58ab2eb81b4675344c2
